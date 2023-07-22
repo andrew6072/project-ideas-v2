@@ -8,3 +8,5 @@ The following are some project ideas for full stack development. The list is not
  - Google meet clone
  - Google drive clone
  - Leetcode clone
+
+Link video: https://www.youtube.com/watch?v=eZT8RUuWvR8
